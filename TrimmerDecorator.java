@@ -1,3 +1,6 @@
+
+
+
 public class TrimmerDecorator extends BaseDecorator {
     public TrimmerDecorator(Nameable nameable) {
         super(nameable);

@@ -1,3 +1,5 @@
+
+
 public class Main {
     public static void main(String[] args) {
         Person person = new Person("NSR/1666/14", "mengaw wubetu", false);
