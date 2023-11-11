@@ -1,5 +1,3 @@
-
-
 public class CapitalizeDecorator extends BaseDecorator {
     public CapitalizeDecorator(Nameable nameable) {
         super(nameable);

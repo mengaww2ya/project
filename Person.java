@@ -1,5 +1,3 @@
-
-
 public class Person implements Nameable {
     private String id;
     private String name;
